@@ -1,0 +1,7 @@
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\PigLatinDC\PigLatinDC\bin\Debug\PigLatinDC.exe.config
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\PigLatinDC\PigLatinDC\bin\Debug\PigLatinDC.exe
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\PigLatinDC\PigLatinDC\bin\Debug\PigLatinDC.pdb
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\PigLatinDC\PigLatinDC\obj\Debug\PigLatinDC.csprojResolveAssemblyReference.cache
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\PigLatinDC\PigLatinDC\obj\Debug\PigLatinDC.csproj.CoreCompileInputs.cache
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\PigLatinDC\PigLatinDC\obj\Debug\PigLatinDC.exe
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\PigLatinDC\PigLatinDC\obj\Debug\PigLatinDC.pdb
